@@ -28,7 +28,8 @@ part of the official release history.
 
 The valid snapshot contains an artifact identifier.
 
-The next repository follows this naming convention:
+Use the artifact identifier exactly as recorded, in lowercase,
+to form the next repository name:
 
 lantern-<artifact>
 
