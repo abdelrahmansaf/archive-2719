@@ -1,8 +1,8 @@
 {
-  "build_id": 2841,
+  "build_id": 4829,
   "status": "PASS",
   "tests_passed": 42,
-  "tests_failed": 1,
+  "tests_failed": 0,
   "warnings": 0,
-  "artifact": "mirror"
+  "artifact": "decoy"
 }
